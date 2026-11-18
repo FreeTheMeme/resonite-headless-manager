@@ -4,3 +4,4 @@ uvicorn
 asyncio
 python-dotenv
 psutil
+gunicorn
